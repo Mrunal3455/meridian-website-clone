@@ -13,7 +13,7 @@ A pixel-perfect clone of the Meridian Ice Cream website built using pure HTML5 a
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML5** — structure and semantic markup
 - **CSS3** — styling, layout, flexbox
@@ -33,7 +33,6 @@ meridian-website-clone/
 └── style.css
 ---
 
-## 👤 Author
 
 **Mrunal Pansare**  
 📧 mrunalpansare48645@gmail.com  
